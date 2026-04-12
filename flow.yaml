@@ -1,0 +1,7 @@
+appId: com.vfs.italyglobal
+---
+
+- stopApp: com.vfs.italyglobal
+- launchApp
+- tapOn:
+    text: "Algeria \\(English\\)"
